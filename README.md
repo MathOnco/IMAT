@@ -6,7 +6,15 @@ The purpose of this series is to offer additional training in common methods use
 
 ## List of lectures
 ### 1. Visualization, analysis and design (10-18-2024)
-Summary: A review of the construction of scientific figures and illustrations, including topics like data encoding using size, shape, color. We review the physical limits of human perception, the history of illustration methods, and make recommendations on best practices.
+Summary: A review of the construction of scientific figures and illustrations, including topics like data encoding using size, shape, color. We review the physical limits of human perception, the history of illustration methods, and make recommendations on best practices. Presented by Jeffrey West
+
+### 2. Integrating HAL with EvoFreq (01-17-2025)
+Summary: An overview of lineage tracing, with a tutorial of Hybrid Automata Library (HAL) and its integration with EvoFreq, a tool for visualizing lineage information. Presented by Chandler Gatenbee & Sadegh Marzban.
+
+### 3. Cancer Medicine and Action Mechanisms of Drugs (01-31-2025)
+Summary: an overview of common drugs used in cancer, along with description of mechanism of action. Presented by Vural Tagal.
+
+
 
 
 
