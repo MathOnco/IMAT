@@ -14,6 +14,8 @@ Summary: An overview of lineage tracing, with a tutorial of Hybrid Automata Libr
 ### 3. Cancer Medicine and Action Mechanisms of Drugs (01-31-2025)
 Summary: an overview of common drugs used in cancer, along with description of mechanism of action. Presented by Vural Tagal.
 
+### 4. Bayesian inference: a theory of parameter estimation
+Summary: An overview of the fundamental theory of Bayesian inference underlying parameter estimation using the exponential tumor growth law as a motivating example. Maximum a posteriori (MAP) estimation is motivated and demonstrated. Sampling methods are motivated for future exploration. Presented by Daniel Glazar.
 
 
 
