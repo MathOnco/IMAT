@@ -18,7 +18,7 @@ Summary: an overview of common drugs used in cancer, along with description of m
 Summary: An overview of the fundamental theory of Bayesian inference underlying parameter estimation using the exponential tumor growth law as a motivating example. Maximum a posteriori (MAP) estimation is motivated and demonstrated. Sampling methods are motivated for future exploration. Presented by Daniel Glazar.
 
 
-### 4. Virtual Patient Cohorts
+### 5. Virtual Patient Cohorts
 Summary: An overview of the motivation and process for generating virtual patient cohorts, with included explanation and examples from the Evolutionary Tumor Board at Moffitt Cancer Center. Presented by Mark Robertson-Tessi.
 
 
