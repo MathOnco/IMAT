@@ -22,5 +22,5 @@ Summary: An overview of the fundamental theory of Bayesian inference underlying 
 Summary: An overview of the motivation and process for generating virtual patient cohorts, with included explanation and examples from the Evolutionary Tumor Board at Moffitt Cancer Center. Presented by Mark Robertson-Tessi.
 
 
-
-
+### 6. Clustering & visualization of high-dimensional data
+Summary: An overview of the motivation and process for visualization of high-dimensional data using techniques like UMAP, t-SNE, and PCA. Presented by Sandhya Prabhakaran.
