@@ -24,3 +24,6 @@ Summary: An overview of the motivation and process for generating virtual patien
 
 ### 6. Clustering & visualization of high-dimensional data
 Summary: An overview of the motivation and process for visualization of high-dimensional data using techniques like UMAP, t-SNE, and PCA. Presented by Sandhya Prabhakaran.
+
+### 7. Science Communication
+Summary: "How I learned to start worrying and love SciComm" -- an overview of strategies for science communication, presented by Parmvir Bahia.
