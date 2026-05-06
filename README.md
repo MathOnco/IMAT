@@ -29,5 +29,8 @@ Summary: An overview of the motivation and process for visualization of high-dim
 Summary: "How I learned to start worrying and love SciComm" -- an overview of strategies for science communication, presented by Parmvir Bahia.
 
 
-### 7. Bibliometrics
+### 8. Bibliometrics
 Summary: Navigating the Scientific Literature with Bibliometrics and Scientific APIs, presented by Franco Pradelli.
+
+### 9. Machine Learning
+Summary: Implementing machine learning models: a tutorial on methods and pitfalls
