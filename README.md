@@ -33,4 +33,4 @@ Summary: "How I learned to start worrying and love SciComm" -- an overview of st
 Summary: Navigating the Scientific Literature with Bibliometrics and Scientific APIs, presented by Franco Pradelli.
 
 ### 9. Machine Learning
-Summary: Implementing machine learning models: a tutorial on methods and pitfalls
+Summary: Implementing machine learning models: a tutorial on methods and pitfalls, presented by Daniel Camacho Gomez
