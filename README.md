@@ -34,3 +34,6 @@ Summary: Navigating the Scientific Literature with Bibliometrics and Scientific 
 
 ### 9. Machine Learning
 Summary: Implementing machine learning models: a tutorial on methods and pitfalls, presented by Daniel Camacho Gomez
+
+### 10. Parameter Identifiability
+Summary: Assessing models for identifiability of parameters: a tutorial on structural and practical identifiability methods, presented by M A Masud
